@@ -23,8 +23,8 @@ Steps to make this work
 >The script will name the .xml file by its IP, you can then use the sort script to put it into a matching folder
 
 >[!TIP]
->I will also include another script -> Sort_Backup for sorting the downloaded .xml files into folders and then move them to a different location for keeping a different versions of backups <br/*
->The sorting script assumes that the folder exists and its format is: Public_IP_Name
+>I will also include another script -> Sort_Backup for sorting the downloaded .xml files into folders and then move them to a different location for keeping a different versions of backups <br/>
+>The sorting script assumes that the folder exists and its format is: PublicIP_DeviceName 
 
 
 >[!WARNING]
