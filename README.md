@@ -16,3 +16,7 @@ List of devices that you want to backup is in variable called $WatchGuardList
 
 You can modify the script to run other commands / do other actions.
 You can also further automate the backups by putting this script in scheduler.
+Or you can modify it to put ftp/tfp instead of an export command, but you will need to have that ftp/tftp server reachable by the fireboxes.
+
+>[!WARNING]
+Always test the script before running it in production network
