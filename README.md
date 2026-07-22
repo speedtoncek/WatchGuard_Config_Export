@@ -19,7 +19,7 @@ Steps to make this work
 >[!NOTE]
 >You can modify the script to run other commands / do other actions. <br/>
 >You can also further automate the backups by putting this script in scheduler. <br/>
->Or you can modify it to put ftp/tfp instead of an export command, but you will need to have that ftp/tftp server reachable by the fireboxes.
+>Or you can modify it to put ftp/tfp instead of an export command, but you will need to have that ftp/tftp server reachable by the fireboxes. <br/>
 >The script will name the .xml file by its IP, you can then use the sort script to put it into a matching folder
 
 >[!TIP]
