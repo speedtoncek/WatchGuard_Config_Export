@@ -15,3 +15,4 @@ List of devices that you want to backup is in variable called $WatchGuardList
 5) Fill in output of the .xml backup
 
 You can modify the script to run other commands / do other actions.
+You can also further automate the backups by putting this script in scheduler.
