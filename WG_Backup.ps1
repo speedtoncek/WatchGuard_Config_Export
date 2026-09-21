@@ -24,7 +24,7 @@ exit
         "-ssh",
         "-P", $CurrentPort,
         "-l", "backupuser",
-        "-pw", "0laGF&jC!8VQ0W2Txycb",
+        "-pw", "",
         "-batch"
     )
 
