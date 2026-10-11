@@ -8,7 +8,7 @@ You will need a Powershell and Plink for this to work.
 
 The Script was tested on Windows and Linux enviroment.
 
-[!NOTE]
+>[!NOTE]
 >On Linux environment you need to edit path to plink and other files
 
 Steps to make this work
