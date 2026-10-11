@@ -6,6 +6,11 @@ Since WatchGuard does not provide this option on its own.
 
 You will need a Powershell and Plink for this to work.
 
+The Script was tested on Windows and Linux enviroment.
+
+[!NOTE]
+>On Linux enviroment you need to edit path to plink and other files
+
 Steps to make this work
 1) Create a list of devices 
 <br />  List of devices that you want to backup is in variable called $WatchGuardList
